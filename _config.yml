@@ -1,6 +1,7 @@
-title: Minimal theme
-logo: /items/logo.png
+title: Gerrit Michele Quaremba
+logo: /items/IMG_7776.jpeg
+
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
